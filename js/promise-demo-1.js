@@ -1,3 +1,5 @@
+// NOTE: check the promise-demo-2 example instead, it is more completed
+
 function async1(delay) {
 
     var deferred = Q.defer();
